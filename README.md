@@ -1,6 +1,6 @@
-# Axiom Twitter Discord Bot
+# Crypto Twitter Discord Bot
 
-A Discord bot that sends tweets from people followed on Axiom to a Discord channel.
+A Discord bot that sends tweets from people followed on Axiom or Neo Bullx to a Discord channel you choose.
 
 ## Features
 
